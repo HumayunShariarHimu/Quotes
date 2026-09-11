@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **Quotes**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # The Inner Citadel: Notes on Resilience, Authenticity, and the Examined Life
 
